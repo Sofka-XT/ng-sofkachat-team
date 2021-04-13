@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "sofkachat-team": {
+      "hosting": {
+        "ng-chat": [
+          "sofkachat-team"
+        ]
+      }
+    }
+  }
+}
